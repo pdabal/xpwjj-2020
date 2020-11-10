@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LectureDemo",
+            "request": "launch",
+            "mainClass": "LectureDemo",
+            "projectName": "LearnPwJJ_3cc7c3dc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Welcome",
             "request": "launch",
             "mainClass": "Lecture.I.Welcome",
