@@ -1,3 +1,4 @@
+package Lecture.II;
 import java.util.*;
 
 public class LectureDemo {
@@ -209,21 +210,21 @@ public class LectureDemo {
         {
             System.out.println("Inicjalizacja zmiennych");
             {
-                int vacationDays;
+                // int vacationDays;
                 // System.out.println(vacationDays);
             }
             //
             {
-                int vacationDays;
-                vacationDays = 12;
+                // int vacationDays;
+                // vacationDays = 12;
             }
             {
-                int vacationDays = 12;
+                // int vacationDays = 12;
             }
             {
                 double salary = 65000.0;
                 System.out.println(salary);
-                int vacationDays = 12;
+                // int vacationDays = 12;
             }
         }
 

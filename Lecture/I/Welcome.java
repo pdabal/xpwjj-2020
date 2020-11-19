@@ -1,3 +1,5 @@
+package Lecture.I;
+
 public class Welcome {
     public static void main(String[] args) {
         String greeting = "Welcom from Java";
