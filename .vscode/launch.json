@@ -6,7 +6,14 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - QuadraticEquation",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Lecture.V.DemoMaven.src.main.java.pl.edu.wat.wel.ztc.App",
+            "projectName": "xpwjj-2020_f91aeccf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LectureDemo",
             "request": "launch",
             "mainClass": "QuadraticEquation",
             "projectName": "LearnPwJJ_3cc7c3dc",
