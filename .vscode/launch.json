@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Lecture.V.DemoMaven.src.main.java.pl.edu.wat.wel.ztc.App",
+            "projectName": "xpwjj-2020_f91aeccf"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LectureDemo",
             "request": "launch",
             "mainClass": "LectureDemo",
