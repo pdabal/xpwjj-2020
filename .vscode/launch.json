@@ -6,30 +6,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - LectureDemo",
+            "name": "CodeLens (Launch) - QuadraticEquation",
             "request": "launch",
-            "mainClass": "LectureDemo",
-            "projectName": "LearnPwJJ_3cc7c3dc"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Welcome",
-            "request": "launch",
-            "mainClass": "Lecture.I.Welcome",
-            "projectName": "LearnPwJJ_3cc7c3dc"
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch) - Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch)-Welcome<LearnPwJJ_3cc7c3dc>",
-            "request": "launch",
-            "mainClass": "Welcome",
-            "projectName": "LearnPwJJ_3cc7c3dc"
+            "mainClass": "QuadraticEquation",
+            "projectName": "LearnPwJJ_3cc7c3dc",
+            "args": "2.4 43.2 6.1"
         }
     ]
 }
