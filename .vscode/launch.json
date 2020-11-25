@@ -6,6 +6,61 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - JavaSwingFrameTest",
+            "request": "launch",
+            "mainClass": "JavaSwingFrameTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExtendsSwing",
+            "request": "launch",
+            "mainClass": "JavaExtendsSwing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaNewAWT",
+            "request": "launch",
+            "mainClass": "JavaNewAWT"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExtendsAWT",
+            "request": "launch",
+            "mainClass": "JavaExtendsAWT"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleFrameTest",
+            "request": "launch",
+            "mainClass": "SimpleFrameTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaAWT_2",
+            "request": "launch",
+            "mainClass": "JavaAWT_2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaAWT_1",
+            "request": "launch",
+            "mainClass": "JavaAWT_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Emploey",
+            "request": "launch",
+            "mainClass": "Emploey"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoWindow",
+            "request": "launch",
+            "mainClass": "DemoWindow",
+            "projectName": "LearnPwJJ_3cc7c3dc"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "Lecture.V.DemoMaven.src.main.java.pl.edu.wat.wel.ztc.App",
