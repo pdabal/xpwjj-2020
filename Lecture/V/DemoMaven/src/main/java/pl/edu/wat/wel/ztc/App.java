@@ -13,7 +13,12 @@ public class App
         for (SerialPort sp : SerialPort.getCommPorts()) {
             System.out.println(sp.getSystemPortName());
         }
-        
+
+        var str = String.format("%2$d, %1$s", "args", 2);
+        // str += "test";
+        // str += 3;
+        System.out.println(str);
+
         try {
             for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
                 if ("Nimbus".equals(info.getName())) {
