@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch application/Emploey",
+            "request": "launch",
+            "mainClass": "com.example.application/Emploey",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "pl.edu.wat.wel.ztc.App",
